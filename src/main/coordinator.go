@@ -11,7 +11,6 @@ package main
 
 //this is my file
 
-//test
 import (
 	"fmt"
 	"os"
